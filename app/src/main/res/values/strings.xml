@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TeaApplication</string>
+    <string name="add_users">add users</string>
+    <string name="create_bills">create bills</string>
+    <string name="view_transactions">view transactions</string>
+    <string name="view_bills">view Bills</string>
+    <string name="total_profit">total profit</string>
+    <string name="user_id">අංකය</string>
+    <string name="total_kg">මුලු දලු ප්‍රමාණය</string>
+    <string name="tea_packet">"තේ කොළ "</string>
+    <string name="fertilizer">පොහොර</string>
+    <string name="dolamite">ඩොලමයිට්</string>
+    <string name="advance_fee">අත්තිකාරම් මුදල්</string>
+    <string name="add_data">ඇතුලත් කරන්න</string>
+    <string name="add_customers">නව ගනුදෙනුකරුවන් ඇතුලත් කරන්න</string>
+    <string name="add_customer_id">නව අංකය ඇතුලත් කරන්න\n</string>
+    <string name="add">ඇතුලත් කරන්න\n</string>
+    <string name="add_customer">ඇතුලත් කරන්න</string>
+    <string name="dailybillsviewtext">දේනික බිල්පත්</string>
+    <string name="date">දිනය</string>
+    <string name="search">සොයන්න</string>
+
+</resources>

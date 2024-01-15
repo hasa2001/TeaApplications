@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78696762166",
+    "project_id": "teaapplication",
+    "storage_bucket": "teaapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78696762166:android:eeda384ba53503594e8197",
+        "android_client_info": {
+          "package_name": "com.zaviron.teaapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMpBtrtXGfTbb5cAPzxlwDVXUwqqyi-8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
