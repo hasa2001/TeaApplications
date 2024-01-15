@@ -46,13 +46,11 @@ public class AddDailyBillsMainActivity extends AppCompatActivity {
         calendarView.setOnDateChangeListener(new CalendarView.OnDateChangeListener() {
             @Override
             public void onSelectedDayChange(@NonNull CalendarView view, int year, int month, int dayOfMonth) {
-                String curDate = String.valueOf(dayOfMonth);
-                String Year = String.valueOf(year);
-                String Month = String.valueOf(month);
+
                 Calendar calendar = Calendar.getInstance();
                 calendar.set(year, month, dayOfMonth);
                 calendarView.setDate(calendar.getTimeInMillis());
-                Log.e("date", Year + "/" + Month + "/" + curDate);
+
             }
         });
         findViewById(R.id.addBillBtn).setOnClickListener(new View.OnClickListener() {
